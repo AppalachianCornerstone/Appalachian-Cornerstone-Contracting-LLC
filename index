@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Appalachian Cornerstone Contracting, LLC — General contracting services in Morehead, Kentucky.">
+  <title>Appalachian Cornerstone Contracting, LLC</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="container nav">
+      <a class="brand" href="#home">
+        <span class="mark">AC</span>
+        <span>Appalachian Cornerstone<br><small>Contracting, LLC</small></span>
+      </a>
+      <a class="nav-call" href="tel:16065488297">Call 606-548-8297</a>
+    </div>
+  </header>
+
+  <main>
+    <section id="home" class="hero">
+      <div class="container hero-content">
+        <p class="eyebrow">GENERAL CONTRACTING • MOREHEAD, KENTUCKY</p>
+        <h1>Built on hard work.<br><span>Backed by craftsmanship.</span></h1>
+        <p class="lead">Appalachian Cornerstone Contracting, LLC provides dependable general contracting services for homeowners and property owners in Morehead and the surrounding area.</p>
+        <div class="actions">
+          <a class="btn primary" href="tel:16065488297">Call for a Quote</a>
+          <a class="btn secondary" href="mailto:AppalachianCornerstoneContract@gmail.com?subject=Project%20Quote%20Request">Request a Quote by Email</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="trust">
+      <div class="container trust-grid">
+        <div><strong>Local</strong><span>Morehead, Kentucky</span></div>
+        <div><strong>Professional</strong><span>General Contracting</span></div>
+        <div><strong>Reliable</strong><span>Quality-focused service</span></div>
+      </div>
+    </section>
+
+    <section id="services" class="section">
+      <div class="container">
+        <p class="eyebrow">WHAT WE DO</p>
+        <h2>General Contracting Services</h2>
+        <p class="section-intro">Whether you're planning an improvement, repair, renovation, or larger project, Appalachian Cornerstone Contracting is ready to discuss your needs.</p>
+        <div class="cards">
+          <article class="card">
+            <div class="icon">01</div>
+            <h3>General Contracting</h3>
+            <p>Coordinated construction and improvement work with attention to planning, communication, and workmanship.</p>
+          </article>
+          <article class="card">
+            <div class="icon">02</div>
+            <h3>Renovations & Improvements</h3>
+            <p>Practical upgrades and renovation projects designed around your property, priorities, and budget.</p>
+          </article>
+          <article class="card">
+            <div class="icon">03</div>
+            <h3>Repairs & Projects</h3>
+            <p>Help with property repairs and construction projects that need dependable hands and careful execution.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="about" class="section dark">
+      <div class="container about-grid">
+        <div>
+          <p class="eyebrow">ABOUT THE COMPANY</p>
+          <h2>Your project starts with a solid cornerstone.</h2>
+        </div>
+        <div>
+          <p>Appalachian Cornerstone Contracting, LLC is a Morehead, Kentucky general contracting company focused on dependable service and quality workmanship.</p>
+          <p>Our goal is simple: communicate clearly, do the work right, and treat every project and property with respect.</p>
+          <a class="text-link" href="mailto:AppalachianCornerstoneContract@gmail.com?subject=Project%20Inquiry">Start a conversation →</a>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="section contact">
+      <div class="container contact-grid">
+        <div>
+          <p class="eyebrow">GET IN TOUCH</p>
+          <h2>Let's talk about your project.</h2>
+          <p>Tell us what you're planning and we'll be happy to discuss the next step.</p>
+        </div>
+        <div class="contact-box">
+          <a href="tel:16065488297"><span>PHONE</span>606-548-8297</a>
+          <a href="mailto:AppalachianCornerstoneContract@gmail.com"><span>EMAIL</span>AppalachianCornerstoneContract@gmail.com</a>
+          <div><span>LOCATION</span>Morehead, Kentucky</div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container footer">
+      <p>© 2026 Appalachian Cornerstone Contracting, LLC. All rights reserved.</p>
+      <p>Morehead, Kentucky</p>
+    </div>
+  </footer>
+</body>
+</html>
