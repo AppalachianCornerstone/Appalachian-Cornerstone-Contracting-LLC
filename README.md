@@ -6,7 +6,7 @@ Website for Appalachian Cornerstone Contracting, LLC
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Appalachian Cornerstone Contracting, LLC — General contracting services in Morehead, Kentucky.">
-  <title>Appalachian Cornerstone Contracting, LLC</title>
+  Appalachian Cornerstone Contracting, LLC
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
