@@ -49,7 +49,7 @@ a:focus-visible { outline: 3px solid var(--copper); outline-offset: 4px; }
 .eyebrow { display: flex; align-items: center; gap: 10px; margin: 0 0 23px; color: var(--copper); font-size: 10px; font-weight: 700; letter-spacing: 0; text-transform: uppercase; }
 .eyebrow-line { display: inline-block; width: 26px; height: 1px; background: currentColor; }
 .hero h1, .section-heading h2, .about h2, .contact h2 { margin: 0; font-family: 'Manrope', sans-serif; letter-spacing: 0; }
-.hero h1 { max-width: 760px; font-size: clamp(40px, 5vw, 62px); line-height: 1.08; font-weight: 600; }
+.hero h1 { max-width: 760px; font-size: 62px; line-height: 1.08; font-weight: 600; }
 .hero h1 span { color: #c5d7c9; }
 .hero-lead { max-width: 550px; margin: 22px 0 28px; color: #e1e9e3; font-size: 16px; line-height: 1.7; }
 .actions { display: flex; flex-wrap: wrap; gap: 12px; }
@@ -129,7 +129,7 @@ a:focus-visible { outline: 3px solid var(--copper); outline-offset: 4px; }
   .site-header nav a { font-size: 11px; }
   .header-phone { margin-left: auto; padding: 9px 10px; font-size: 10px; }
   .hero-inner { min-height: 0; display: block; padding-block: 70px 54px; }
-  .hero::before { inset-left: 25%; }
+  .hero::before { left: 25%; }
   .hero-pattern { width: 250px; height: 250px; top: 35px; right: -105px; opacity: .65; }
   .hero-pattern::before { inset: 25px; }
   .hero-pattern::after { inset: 50px; }
