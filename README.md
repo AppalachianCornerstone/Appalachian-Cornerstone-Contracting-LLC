@@ -1,14 +1,14 @@
 # Appalachian Cornerstone Contracting, LLC
 
-A simple, responsive website for Appalachian Cornerstone Contracting, LLC, serving Morehead, Kentucky and nearby communities.
+A responsive website for Appalachian Cornerstone Contracting, LLC, serving Morehead, Kentucky and nearby communities.
 
-## Website
+## Add project photos
 
-The website is built with plain HTML and CSS:
+1. Open the `assets/projects` folder in this repository and choose **Add file → Upload files**.
+2. Upload JPG, JPEG, PNG, or WebP project photos. Use a descriptive filename, such as `kitchen-renovation.jpg`.
+3. Commit the upload to `main`. GitHub Pages will rebuild the gallery automatically.
 
-- `index.html` contains the home, services, company, and contact sections.
-- `style.css` provides responsive styling for desktop and mobile.
-- GitHub Pages is deployed automatically from `main` by the workflow in `.github/workflows/pages.yml`.
+Photos in `assets/projects` appear in the **Our Work** gallery. The filename is used as the photo caption and alt text.
 
 ## Contact
 
