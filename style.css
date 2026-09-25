@@ -77,7 +77,6 @@ a:focus-visible { outline: 3px solid var(--copper); outline-offset: 4px; }
 .gallery-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
 .gallery-item { overflow: hidden; margin: 0; background: #fff; border: 1px solid #d1d1cf; }
 .gallery-item img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; background: #dededc; }
-.gallery-item figcaption { padding: 12px 14px; border-top: 2px solid var(--copper); color: var(--ink); font-size: 12px; font-weight: 600; }
 .gallery-empty { padding: 46px 20px; border: 1px dashed #aaa; color: var(--muted); text-align: center; font-size: 13px; }
 .gallery-empty[hidden] { display: none; }
 
