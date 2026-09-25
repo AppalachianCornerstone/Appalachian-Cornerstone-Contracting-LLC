@@ -1,6 +1,5 @@
 from pathlib import Path
 import json
-import re
 
 folder = Path("assets/projects")
 folder.mkdir(parents=True, exist_ok=True)
@@ -10,11 +9,9 @@ projects = []
 for image in sorted(folder.iterdir(), key=lambda item: item.name.lower()):
     if not image.is_file() or image.suffix.lower() not in image_types:
         continue
-    title = re.sub(r"[-_]+", " ", image.stem).strip().title()
     projects.append({
         "src": image.as_posix(),
-        "title": title,
-        "alt": f"{title} by Appalachian Cornerstone Contracting",
+        "alt": "Residential construction project by Appalachian Cornerstone Contracting",
     })
 
 (folder / "gallery.json").write_text(
