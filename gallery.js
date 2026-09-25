@@ -21,10 +21,7 @@ async function loadProjects() {
       image.alt = project.alt;
       image.loading = "lazy";
 
-      const caption = document.createElement("figcaption");
-      caption.textContent = project.title;
-
-      figure.append(image, caption);
+      figure.append(image);
       gallery.append(figure);
     }
   } catch {
