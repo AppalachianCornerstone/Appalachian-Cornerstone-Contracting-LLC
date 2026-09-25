@@ -8,7 +8,7 @@ A responsive website for Appalachian Cornerstone Contracting, LLC, serving Moreh
 2. Upload JPG, JPEG, PNG, or WebP project photos. Use a descriptive filename, such as `kitchen-renovation.jpg`.
 3. Commit the upload to `main`. GitHub Pages will rebuild the gallery automatically.
 
-Photos in `assets/projects` appear in the **Our Work** gallery. The filename is used as the photo caption and alt text.
+Photos in `assets/projects` appear in the **Our Work** gallery without captions or filenames.
 
 ## Contact
 
